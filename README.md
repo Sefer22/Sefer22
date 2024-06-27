@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safar</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sefer22&label=Profile%20views&color=0e75b6&style=flat" alt="sefer22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefer22" alt="sefer22" /></a> </p>
-
 - 🌱 I’m currently learning **React,Spring Boot**
 
 - 💬 Ask me about **React,Spring Boot**
@@ -26,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sefer22&show_icons=true&locale=en&layout=compact" alt="sefer22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sefer22&show_icons=true&locale=en" alt="sefer22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sefer22&" alt="sefer22" /></p>
